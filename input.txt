@@ -1,0 +1,9 @@
+K={q0,q1}
+S={a,b}
+F={q0}
+s=q0
+Transition function
+ q0,a,q0
+ q0,b,q1
+ q1,a,q1
+ q1,b,q0
